@@ -1,0 +1,12 @@
+FLOW:
+    1. choose if ingredients or dish
+    2. choose if add or search
+
+    
+    INGREDIENTS
+        SET ingredients list
+        SET dishes list
+        READ user input
+        PARSE user input and put into ingredients list 
+        READ dishes database
+
